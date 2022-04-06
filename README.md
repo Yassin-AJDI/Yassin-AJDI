@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yassin-AJDI
-- 📫My old account: https://github.com/YassinAJDI
+- 📫Old account: https://github.com/YassinAJDI
 
 <!---
 Yassin-AJDI/Yassin-AJDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
